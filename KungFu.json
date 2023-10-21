@@ -1,0 +1,386 @@
+{
+"name": "Kung Fu 1972",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vUqmS40PRyAe3COHh7wHpDFnspC.jpg",
+"author": "Tirimosqui",
+"info": "libre y gratis",
+"stations": [
+        {
+          "name": "Kung Fu 1x01",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459489912",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x02",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459620984",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x03",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459293304",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x04",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459752056",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x05",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459227768",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x06",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459555448",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x07",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459358840",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x08",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459162232",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x09",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459686520",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x10",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2068459424376",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x11",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069000882808",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x12",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069000555128",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x13",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069000686200",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x14",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069000817272",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x15",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069000620664",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 1x16",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069000751736",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x01",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069022968440",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x02",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069022902904",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x03",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069023099512",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x04",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069023033976",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x05",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069022837368",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x06",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069023165048",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x07",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069624261240",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x08",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069624195704",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x09",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069623999096",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x10",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069624064632",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x11",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069624130168",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x12",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069630749304",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x13",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069631011448",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x14",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069630945912",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x15",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069630880376",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x16",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2069630814840",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x17",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078303783544",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x18",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078306339448",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x19",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078306404984",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x20",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078308567672",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x21",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078308633208",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x22",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078310599288",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 2x23",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078312499832",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x01",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078312368760",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x02",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078312434296",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x03",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2078314334840",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x04",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887985272",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x05",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079888181880",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x06",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079888050808",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x07",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079888116344",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x08",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2082185808504",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x09",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887919736",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x10",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887395448",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x11",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887854200",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x12",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887723128",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x13",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887788664",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x14",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079888312952",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x15",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079888247416",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x16",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887133304",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x17",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887526520",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x18",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887198840",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x19",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887657592",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x20",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079886936696",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x21",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887264376",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x22",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887460984",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x23",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887329912",
+          "isHost": true
+        },
+        {
+          "name": "Kung Fu 3x24",
+          "image": "https://pics.filmaffinity.com/Kung_Fu_Serie_de_TV-620841779-large.jpg",
+          "url": "https://ok.ru/videoembed/2079887002232",
+          "isHost": true
+        }
+	]
+}

@@ -1,0 +1,31 @@
+{
+"name": "V invasión ext 1983",
+"author": "Tirimosqui",
+"url": "",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IIWbLVQfyVwf2U2cllcPIGgZc.jpg",
+"info": "libre y gratis",
+"stations":
+	[
+{"name": "DVD 1",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IIWbLVQfyVwf2U2cllcPIGgZc.jpg",
+"url": "https://doodstream.com/d/hm9ilozvoas9",
+"isHost": true },
+{"name": "DVD 2",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IIWbLVQfyVwf2U2cllcPIGgZc.jpg",
+"url": "https://doodstream.com/d/oggbf6cpwdht",
+"isHost": true },
+{"name": "DVD 3",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IIWbLVQfyVwf2U2cllcPIGgZc.jpg",
+"url": "https://doodstream.com/d/d82a8u3c5676",
+"isHost": true },
+{"name": "DVD 4",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IIWbLVQfyVwf2U2cllcPIGgZc.jpg",
+"url": "https://doodstream.com/d/55no962yrl25",
+"isHost": true },
+{"name": "DVD 5",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IIWbLVQfyVwf2U2cllcPIGgZc.jpg",
+"url": "https://doodstream.com/d/eoa8v7n1a9tp",
+"isHost": true 
+}
+	]
+}
