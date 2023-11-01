@@ -92,35 +92,49 @@
 "isHost":"true",
 "drm_scheme": "clearkey",
 "extension": "https"
-},
-{
+},{
 "name": "Megalodón 2: La fosa (2023)",
 "image":"https://www.elseptimoarte.net/carteles/341/megalodon_2_97707.jpg",
 "uri": "https://upstream.to/6eyekwero625",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "Como Dios manda (2023)",
 "image":"https://pics.filmaffinity.com/como_dios_manda-396503421-mmed.jpg",
 "uri": "https://upstream.to/y2hpgbuk5r78",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "Llaman a la puerta (2023)",
 "image":"https://www.elseptimoarte.net/carteles/341/llaman_a_la_puerta_95797.jpg",
 "uri": "https://upstream.to/r2481khxuibs",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "65 (2023)",
 "image":"https://www.elseptimoarte.net/carteles/341/65_96122.jpg",
 "uri": "https://upstream.to/4ad13y3nzpx8",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "The Devil Conspiracy (2023)",
 "image":"https://www.elseptimoarte.net/carteles/341/the_devil_conspiracy_95743.jpg",
 "uri": "https://upstream.to/an13zp4uclqa",
-"isHost":"true"
-},{
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+},
+{
 "name": "Barbie (2023)",
-"image":"https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
 "uri": "https://upstream.to/almkii740nt7",
         "kid": "",
         "key": "",
@@ -132,15 +146,20 @@
   {
     "name": "Ciclos y Sagas",
     "samples": [
-{"name": "Ahora me ves",
-"image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves..._20844.jpg",
+{
+"name": "Ahora me ves",
 "uri": "https://upstream.to/jyj6bp5tzj3l",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "Ahora me ves 2",
-"image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves_2_54318.jpg",
 "uri": "https://cloudvideo.tv/pdmk4j3aglrx",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "Animales fantásticos y dónde encontrarlos (2016)",
 "image": "https://www.elseptimoarte.net/carteles/341/animales_fantasticos_60857.jpg",
@@ -1438,7 +1457,6 @@
 "isHost":"true"
 },{
 "name": "Bullet Train (2022)",
-"image": "https://www.elseptimoarte.net/carteles/341/bullet_train_93982.jpeg",
 "uri": "https://upstream.to/pk6eaady7jux",
         "kid": "",
         "key": "",
@@ -1449,14 +1467,18 @@
   },
 {
 "name": "13 horas: Los soldados secretos de Bengasi (2016)",
-"image": "https://www.elseptimoarte.net/carteles/341/13_horas_50017.jpg",
 "uri": "https://upstream.to/1zy8l5yh43kh",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "El agente (2018)",
-"image": "https://www.elseptimoarte.net/carteles/341/el_agente_70342.jpg",
 "uri": "http://185.233.16.151:8000/movie/1237/1237/147152.mp4?token=H0EMV0RQRl8UVABWAlILCwBRAAkCBwRdUQZfAVFaBgEFUVBVBllXXFVDFRZAFkBdBw48WFASDVUBAFcNURQXRhcGFmleXEZfFFALBQdWBRpKQRdYWVUVXgQBXg9RCAAHUFNIFEdRAEcMQw8AAFIQFEQGG0VRQlkFWWgCXRVRVlZGWUYUGxoLC2kFXFlSDFYaXEFTExgSXhdFFVxWFlRZH0YBDUJFWRAAFFsbBQdQARpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOEQ9CDERPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBEQUQVVaXQ0XC0RoSA0BFFtXQV8OTw==",
-"userAgent":""
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "El señor de la guerra (2005)",
 "image": "https://www.elseptimoarte.net/carteles/341/el_senor_de_la_guerra_38092.jpg",
@@ -1919,7 +1941,6 @@
 "isHost":"true"
 },{
 "name": "El potro (2005)",
-"image": "https://pics.filmaffinity.com/the_colt_tv-140226392-mmed.jpg",
 "uri": "https://opvid.org/ux4mmiepevr5.html",
         "kid": "",
         "key": "",
@@ -1933,14 +1954,18 @@
     "samples": [
 {
 "name": "El increíble Hulk (2008)",
-"image": "https://www.elseptimoarte.net/carteles/341/el_increible_hulk_57033.jpg",
 "uri": "https://upstream.to/8p3u2e528avj",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "Ant-Man y la Avispa: Quantumanía (2023)",
-"image": "https://www.elseptimoarte.net/carteles/341/ant-man_y_la_avispa_quantumania_96377.jpg",
 "uri": "https://upstream.to/8t5xaio3d7vo",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "El quinto elemento (1997)",
 "image": "https://www.elseptimoarte.net/carteles/341/el_quinto_elemento_poster_26570.jpg",
@@ -2243,7 +2268,6 @@
 "isHost":"true"
 },{
 "name": "Yo, Robot (2004)",
-"image": "https://www.elseptimoarte.net/carteles/341/yo_robot_79047.jpeg",
 "uri": "https://upstream.to/3wwtwtzdvk18",
         "kid": "",
         "key": "",
@@ -2257,9 +2281,11 @@
  "samples": [  
  {
 "name": "Nosotros (2019)",
-"image": "https://www.elseptimoarte.net/carteles/341/nosotros_75134.jpg",
 "uri": "https://upstream.to/m1ct0my5qzil",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "Antebellum (2020)",
 "image": "https://www.elseptimoarte.net/carteles/341/antebellum_84577.jpg",
@@ -2597,7 +2623,6 @@
 "isHost":"true"
 },{
 "name": "The Ring (El círculo) (1998)",
-"image": "https://pics.filmaffinity.com/ringu_the_ring-816319242-mmed.jpg",
 "uri": "https://opvid.org/wm8sbhtblvis.html",
         "kid": "",
         "key": "",
@@ -2610,9 +2635,11 @@
     "samples": [
       {
 "name": "Mr. Deeds (2002)",
-"image": "https://www.elseptimoarte.net/carteles/341/mr_deeds_45818.jpg",
 "uri": "https://vidmoly.me/w/ukle46kktqog",
-"isHost":"true"
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
 },{
 "name": "Los Thornberrys: La película (2002)",
 "image": "https://www.elseptimoarte.net/carteles/341/los_thornberrys_42932.jpg",
@@ -3376,7 +3403,6 @@
 },
 {
 "name": "Assassination Classroom: La graduación (2016)",
-"image": "https://pics.filmaffinity.com/ansatsu_kyoshitsu_sotsugyo_hen-398775773-mmed.jpg",
 "uri": "https://upstream.to/p5e7xoqlldhz",
 "isHost":"true",
 "drm_scheme": "clearkey",
@@ -3384,9 +3410,7 @@
 },
 {
 "name": "Pídele cuentas al rey (1999)",
-"image": "https://www.elseptimoarte.net/carteles/341/pidele_cuentas_al_rey_48456.jpg",
 "uri": "https://ok.ru/video/2894940670599",
-"isHost":"true",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
