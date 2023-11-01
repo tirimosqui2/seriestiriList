@@ -1,155 +1,78 @@
 [
-  { "name": "Estrenos de Cine",
+  {
+    "name": "Estrenos de Cine",
     "samples": [
-	{
-	"name": "El exorcista: Creyente (2023)Latino",
-"uri": "https://highstream.tv/smwhjki7entt/El_exorcista_El_creyente_[By_chuky].mp4.html",
+      {
+	    "name": "El exorcista: Creyente (2023)Latino",
+        "uri": "https://highstream.tv/smwhjki7entt/El_exorcista_El_creyente_[By_chuky].mp4.html",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Mi soledad tiene alas (2023)",
-"uri": "https://upstream.to/tvmbc2eymsnd",
+        "extension": "host"
+      },
+      {
+        "name": "Mi soledad tiene alas (2023)",
+        "uri": "https://upstream.to/tvmbc2eymsnd",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{"name": "De perdidos a Río (2023)",
-"uri": "https://upstream.to/t328kpei9ovd",
+        "extension": "https"
+      },
+      {
+        "name": "De perdidos a Río (2023)",
+        "uri": "https://upstream.to/t328kpei9ovd",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "The Equalizer 3 (2023)",
-"uri": "https://highstream.tv/fzpplp7qmip6/Equalizer_3.mp4.html",
+        "extension": "https"
+      },
+      {
+        "name": "The Equalizer 3 (2023)",
+        "uri": "https://highstream.tv/fzpplp7qmip6/Equalizer_3.mp4.html",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Gran Turismo (2023)",
-"uri": "https://upstream.to/gc34xlxsbayq",
+        "extension": "https"
+      },
+      {
+        "name": "Gran Turismo (2023)",
+        "uri": "https://upstream.to/gc34xlxsbayq",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Blue Beetle (2023)",
-"uri": "https://upstream.to/ehhjar5h9bua",
+        "extension": "https"
+      },
+      {
+        "name": "Blue Beetle (2023)",
+        "uri": "https://upstream.to/ehhjar5h9bua",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "El hombre del saco (2023)",
-"uri": "https://upstream.to/m28d92plsqtr",
+        "extension": "http"
+      },
+      {
+        "name": "El hombre del saco (2023)",
+        "uri": "https://upstream.to/m28d92plsqtr",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Sin malos rollos (2023)",
-"uri": "https://upstream.to/aqycv5kwqyuh",
+        "extension": "http"
+      },
+      {
+        "name": "Sin malos rollos (2023)",
+        "uri": "https://upstream.to/aqycv5kwqyuh",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Las nadadoras (2023)",
-"uri": "https://upstream.to/yyq8g9dzr848",
+        "extension": "http"
+      },
+      {
+        "name": "Las nadadoras (2023)",
+        "uri": "https://upstream.to/yyq8g9dzr848",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Oppenheimer (2023) TS Latino",
-"uri": "https://upstream.to/9plrwdiy6n8b",
-"isHost":"true",
-"drm_scheme": "clearkey",
-"extension": "https"
-},
-{
-"name": "Terror on the Prairie (2022)DVDScreen Latino",
-"uri": "https://upstream.to/ceekwhp2m58x",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Sound of Freedom (2022) Latino",
-"uri": "https://upstream.to/ibjiyg204wl9",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Elemental (2023)",
-"uri": "https://upstream.to/gq8rboyrcrk6",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Megalodón 2: La fosa (2023)",
-"uri": "https://upstream.to/6eyekwero625",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Como Dios manda (2023)",
-"uri": "https://upstream.to/y2hpgbuk5r78",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Llaman a la puerta (2023)",
-"uri": "https://upstream.to/r2481khxuibs",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Assassination Classroom (2015)",
-"uri": "https://opvid.org/d6qhjpkm04f8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Assassination Classroom: La graduación (2016)",
-"uri": "https://upstream.to/p5e7xoqlldhz",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-         "extension": "https"
-},
-{
-"name": "Pídele cuentas al rey (1999)",
-"uri": "https://ok.ru/video/2894940670599",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
+        "extension": "http"
       }
     ]
   }
