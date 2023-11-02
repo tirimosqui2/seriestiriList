@@ -3345,54 +3345,6 @@
     "name": "PLUTO TV",
     "samples": [
       {
-        "name": "Pluto TV Diseño",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64db2e0835425100080f2f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "MTV EMA",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64db2c974c5ed80008f68b6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "South Park Halloween",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64db32bedfa324000832e34c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Pluto TV Kids Halloween",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Atrápame si puedes",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64c7b1582a7f220008a07a61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Pluto TV True Crime",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Pluto TV Star Trek",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
         "kid": "",
