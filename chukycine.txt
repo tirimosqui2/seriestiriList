@@ -1,6 +1,6 @@
 [
   {
-    "name": "-- GENERALISTAS --",
+    "name": "-- CANALES TDT --",
     "samples": [
       {
         "name": "LA 1",
@@ -195,22 +195,6 @@
         "extension": "mpd"
       },
       {
-        "name": "AMC Break",
-        "uri": "https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd",
-        "kid": "XSjS7pLDRmmsTtOAy8LzFg",
-        "key": "KEo7uprKvGEJKCvYZtK4DA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "AMC Crime",
-        "uri": "https://crimeamc-dash-movistarplus.emisiondof6.com/dash/crimeamcor.isml/manifest.mpd",
-        "kid": "UNlwjZ2BTZGaKvRXBg3FXg",
-        "key": "A1j0j0qTtfmZv8WGmeoV7A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
         "name": "Atreseries",
         "uri": "https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.mpd",
         "kid": "FLr1QMhrSOSVRFm6Dnbepw",
@@ -234,27 +218,12 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
+	  
       {
         "name": "Canal Cocina",
         "uri": "https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd",
         "kid": "QHTtOl01QdaLmgajkcUZ6g",
         "key": "AhWlCPOSXLmKt75k9+Vaug",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Canal Decasa",
-        "uri": "https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd",
-        "kid": "CnSJ93veT2KGejutkj5UmA",
-        "key": "RS8vNJICQIq7CTbJK9ILdg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "COSMO",
-        "uri": "https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd",
-        "kid": "RA0lH7CnQsa6EY4d0Nhv/g",
-        "key": "fJxXdCOuDuK8Zy8QsAiZaQ",
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
@@ -265,30 +234,6 @@
         "key": "ryuUK1CcJk20ubXJ4iNcMg",
         "drm_scheme": "clearkey",
         "extension": "mpd"
-      },
-      {
-        "name": "DMAX",
-        "uri": "https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd",
-        "kid": "oVsovn6ERIqv8yFWsaEB8g",
-        "key": "mdtq6TPBCt2sxUUVGggUTQ",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "El Confidencial",
-        "uri": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "El Pais TV",
-        "uri": "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
       },
       {
         "name": "El Toro TV",
@@ -315,42 +260,10 @@
         "extension": "mpd"
       },
       {
-        "name": "Euronews",
-        "uri": "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Factoría de Ficción",
         "uri": "https://fdf-dash-movistarplus.emisiondof6.com/dash/fdfor.isml/manifest.mpd",
         "kid": "4kf+FoPvSiiBfRycH+RY/A",
         "key": "HnTNw8zIIuGcFBggMy3c1A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "La Resistencia",
-        "uri": "https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd",
-        "kid": "Fz2ZGRXyShG2es0MdZFDcA",
-        "key": "TvgkX3IAE4VPCWz//Y4QKA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Movistar Plus+",
-        "uri": "https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd",
-        "kid": "hGjuu5XYQYyoXfaiOB+2TQ",
-        "key": "AIdIpqy7s0kb9d1JNV2CBw",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Movistar Plus+ 2",
-        "uri": "https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd",
-        "kid": "TU7Z9FsWQJaKlWnUjLaNZA",
-        "key": "BNmbiXzBaYOVCl9LDHLWmA",
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
@@ -385,60 +298,7 @@
         "key": "62G53SnOCNd9sR4yXAbvBw",
         "drm_scheme": "clearkey",
         "extension": "mpd"
-      }
-    ]
   },
-  {
-    "name": "-- CANALES TDT --",
-    "samples": [
-      {
-        "name": "La 1 (opc.1)",
-        "uri": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 1 (opc.2)",
-        "uri": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 1 (opc.3)",
-        "uri": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 2 (opc.1)",
-        "uri": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 2 (opc.2)",
-        "uri": "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 2 (opc.3)",
-        "uri": "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
       {
         "name": "Trece",
         "uri": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
@@ -474,14 +334,6 @@
       {
         "name": "24h (opc.3)",
         "uri": "https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Negocios TV",
-        "uri": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -528,392 +380,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "ETB Deportes (opc.1)",
-        "uri": "https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "ETB Deportes (opc.2)",
-        "uri": "https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "ETB Deportes (opc.3)",
-        "uri": "https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Vinx TV",
-        "uri": "https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Canal Sur Andalucia",
         "uri": "https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "101TV Malaga",
-        "uri": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Onda Cadiz TV",
-        "uri": "https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "M95 Marbella",
-        "uri": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Huelva TV",
-        "uri": "https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Sierra de Cadiz",
-        "uri": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal 45 TV",
-        "uri": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "PTV Malaga",
-        "uri": "https://streamer.zapitv.com/PTV-malaga/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "101TV Sevilla",
-        "uri": "https://streaming101tv.es/hls/websevilla.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Costa Noroeste TV",
-        "uri": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Teleonuba TV",
-        "uri": "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Condavision TV",
-        "uri": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Costa TV",
-        "uri": "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "InterAlmeria TV",
-        "uri": "https://interalmeria.tv/directo/live.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Tuya La Janda TV",
-        "uri": "https://cloudvideo.servers10.com:8081/8232/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Onda Algeciras TV",
-        "uri": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Estepona TV",
-        "uri": "https://cloudvideo.servers10.com:8081/8022/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Luz TV",
-        "uri": "https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Doñana",
-        "uri": "https://secure5.todostreaming.es/live/division-alm.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "PTV Linares",
-        "uri": "https://streamer.zapitv.com/ptv-linarez/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Torrevision TV",
-        "uri": "https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Diez TV Ubeda",
-        "uri": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Diez TV Las Villas",
-        "uri": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Costa del Sol TV",
-        "uri": "https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "101TV Antequera",
-        "uri": "https://streaming101tv.es/hls/webantequera.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "101TV Cadiz",
-        "uri": "https://streaming101tv.es/hls/webcadiz.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "101TV Ronda",
-        "uri": "https://streaming101tv.es/hls/webronda.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Sal Television",
-        "uri": "https://cloudvideo.servers10.com:8081/8254/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "9 La Loma TV",
-        "uri": "https://9laloma.tv/live.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Vivamovil TV",
-        "uri": "https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Malaga TV",
-        "uri": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Mijas 3.40 TV",
-        "uri": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "PTV Granada",
-        "uri": "https://streamer.zapitv.com/PTV-granada/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Fuengirola TV",
-        "uri": "https://secure.todostreaming.es/live/nerja-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "PTV Sevilla",
-        "uri": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "PTV Cordoba",
-        "uri": "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVM Cordoba",
-        "uri": "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "PTV Almeria",
-        "uri": "https://streamer.zapitv.com/ptv_almeria/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Onda Cadiz 24h",
-        "uri": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Aragon TV",
-        "uri": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal 25 Barbastro TV",
-        "uri": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 1 Canarias (opc.1)",
-        "uri": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 1 Canarias (opc.2)",
-        "uri": "https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 2 Canarias (opc.1)",
-        "uri": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 2 Canarias (opc.2)",
-        "uri": "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -944,14 +412,6 @@
         "extension": "m3u8"
       },
       {
-        "name": "Mirame TV",
-        "uri": "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Canal 4 Tenerife",
         "uri": "https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8",
         "kid": "",
@@ -960,80 +420,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "RTV Mogan",
-        "uri": "https://cloudvideo.servers10.com:8081/8028/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Lancelot TV",
         "uri": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Fuenteventura TV",
-        "uri": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Afortunadas TV",
-        "uri": "https://cloudvideo.servers10.com:8081/8108/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Popular TV Cantabria",
-        "uri": "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Imas TV",
-        "uri": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Alcarria TV (opc.1)",
-        "uri": "https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Alcarria TV (opc.2)",
-        "uri": "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal 4 Mancha Centro",
-        "uri": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Aranda",
-        "uri": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1096,46 +484,6 @@
         "extension": "m3u8"
       },
       {
-        "name": "La 1 Cataluña (opc.1)",
-        "uri": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 1 Cataluña (opc.2)",
-        "uri": "https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 1 Cataluña (opc.3)",
-        "uri": "https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 2 Cataluña (opc.1)",
-        "uri": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 2 Cataluña (opc.2)",
-        "uri": "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "24h Cataluña (opc.1)",
         "uri": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
         "kid": "",
@@ -1160,104 +508,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "Beteve",
-        "uri": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal 4 Television",
-        "uri": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "8 TV",
         "uri": "https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Terres de l'Ebre",
-        "uri": "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Emporda TV",
-        "uri": "https://video3.lhdserver.es/empordatv2/live.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TAC 12",
-        "uri": "https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Terrassa",
-        "uri": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Taronja",
-        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Taronja Anoia",
-        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "VOTV",
-        "uri": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Taronja Osona",
-        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Sabadell Valles",
-        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Fitel Television",
-        "uri": "https://tv.mywifisocial.es/live.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1288,40 +540,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "Teleganes",
-        "uri": "https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Distrito TV",
-        "uri": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "C33 Madrid",
         "uri": "https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Onda Madrid",
-        "uri": "https://tvradio-1-23.secure2.footprint.net/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TeleRibera",
-        "uri": "https://video1.lhdserver.es/teleribera/live.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1344,192 +564,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "Intercomarcal TV (opc.1)",
-        "uri": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Intercomarcal TV (opc.2)",
-        "uri": "https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Intercomarcal TV (opc.3)",
-        "uri": "https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Tele Elx",
-        "uri": "https://tvdirecto.teleelx.es/stream/teleelx.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Ribera TV",
-        "uri": "https://common01.todostreaming.es/live/ribera-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "8 La Marina TV",
-        "uri": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "La 8 Mediterraneo",
-        "uri": "https://streaming004.gestec-video.com/hls/8TV.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Alacanti TV",
-        "uri": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Artequatre",
-        "uri": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Vega Baja",
-        "uri": "https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV 4 La Vall",
-        "uri": "https://limited09.todostreaming.es/live/tarson-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Burriana TV",
-        "uri": "https://www.burrianateve.com/hls/btv.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Distrito TV Valencia",
-        "uri": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Elche 7 TV",
-        "uri": "https://elche7tv.gestec-video.com/hls/canal2.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal 56",
-        "uri": "https://videos.canal56.com/directe/stream/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Teve 4",
-        "uri": "https://nlb1-live.emitstream.com/hls/646wzsnqyforndavy6de/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Maestrat TV",
-        "uri": "https://stream.maestrat.tv/hls/stream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Univers TV",
-        "uri": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Almassora",
-        "uri": "https://live.fullsport.es/hls/tvalmassora_src/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Onda 15 TV",
-        "uri": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Punt 3",
         "uri": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Ciudades Del Ocio TV",
-        "uri": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Onda Valencia",
-        "uri": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Une Vinalope",
-        "uri": "https://streamingtvi.gestec-video.com/hls/unesd.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1544,248 +580,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "TVG (opc.1)",
-        "uri": "https://europa-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG (opc.2)",
-        "uri": "https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG 2 (opc.1)",
-        "uri": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG 2 (opc.2)",
-        "uri": "https://events2-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG 2 (opc.3)",
-        "uri": "https://events3-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG America",
-        "uri": "https://america-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Europa",
-        "uri": "https://europa-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Xabarin",
-        "uri": "https://infantil-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Cativos",
-        "uri": "https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Mocinos",
-        "uri": "https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Pequerrechos",
-        "uri": "https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Musigal",
-        "uri": "https://musigal-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Cultura",
-        "uri": "https://cultural-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TVG Momentos G",
-        "uri": "https://momentog-crtvg.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Ferrol",
-        "uri": "https://directo.tvferrol.es/tv.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TEF TV",
-        "uri": "https://5940924978228.streamlock.net/EIVISSA_2/EIVISSA_2/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal 4 TV",
-        "uri": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Melilla TV",
         "uri": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Popular TV Melilla",
-        "uri": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "ETB 1",
-        "uri": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "ETB 2",
-        "uri": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "ETB Basque",
-        "uri": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Hamaika Telebista",
-        "uri": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Tele 7",
-        "uri": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Goiena TV",
-        "uri": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Durangaldeko",
-        "uri": "https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "GITB",
-        "uri": "https://5940924978228.streamlock.net/8155/8155/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "28 Kanala",
-        "uri": "https://5940924978228.streamlock.net/8157/8157/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Erlo Telebista",
-        "uri": "https://5940924978228.streamlock.net/8159/8159/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Urola Telebista",
-        "uri": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TPA7",
-        "uri": "https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1800,72 +596,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "Canal 1 Mar Menor Torre Pacheco",
-        "uri": "https://directo.tuwebtv.es/canal1.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Arabi tv",
-        "uri": "https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Activa TV",
-        "uri": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Cadena Elite",
-        "uri": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Canal Diocesano",
-        "uri": "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Canal Extremadura",
         "uri": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Cristiana TV",
-        "uri": "https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Distrito TV",
-        "uri": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Durangaldeko Telebista",
-        "uri": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1880,216 +612,8 @@
         "extension": "m3u8"
       },
       {
-        "name": "EsTuTele",
-        "uri": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Krolus TV",
-        "uri": "https://vcnkrolustv.teleosmedia.com/linear/krolustv/krolustv/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Lira TV",
-        "uri": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Logos TV",
-        "uri": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Logos TV Estudio",
-        "uri": "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Logos TV Kids",
-        "uri": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Logos TV Salud",
-        "uri": "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Noroeste TV",
-        "uri": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Platzi TV",
-        "uri": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Factoria De Carnaval TV",
-        "uri": "https://eu1.servers10.com:8081/8116/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Radio Television Mogan",
-        "uri": "https://cloudvideo.servers10.com:8081/8028/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Real Madrid TV",
         "uri": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Real Madrid TV (ingles)",
-        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "RTV Vida",
-        "uri": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Solidaria TV",
-        "uri": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "STZ Telebista",
-        "uri": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Taroteame",
-        "uri": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TarotVision",
-        "uri": "https://stream.andalhost.com/hls/tarotvision.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TBN España",
-        "uri": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TEF",
-        "uri": "https://5940924978228.streamlock.net/EIVISSA_2/EIVISSA_2/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Teleganes",
-        "uri": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Television Consciente",
-        "uri": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Almassora",
-        "uri": "https://live.fullsport.es/hls/tvalmassora.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Canaria",
-        "uri": "https://ythlsgo.onrender.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Hellin",
-        "uri": "https://hellin-hls-live.flumotion.com/playlist.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "TV Sant Cugat",
-        "uri": "https://ythlsgo.onrender.com/channel/UCoFs7RGrmWQkqU5KNNGvCjA.m3u8",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Verbena TV",
-        "uri": "https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2100,6 +624,30 @@
   {
     "name": "-- CINE - SERIES --",
     "samples": [
+	  {
+        "name": "La Resistencia",
+        "uri": "https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd",
+        "kid": "Fz2ZGRXyShG2es0MdZFDcA",
+        "key": "TvgkX3IAE4VPCWz//Y4QKA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Movistar Plus+",
+        "uri": "https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd",
+        "kid": "hGjuu5XYQYyoXfaiOB+2TQ",
+        "key": "AIdIpqy7s0kb9d1JNV2CBw",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Movistar Plus+ 2",
+        "uri": "https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd",
+        "kid": "TU7Z9FsWQJaKlWnUjLaNZA",
+        "key": "BNmbiXzBaYOVCl9LDHLWmA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
       {
         "name": "M+ Acción",
         "uri": "https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd",
@@ -2211,7 +759,7 @@
         "key": "NQKEaed5AnGM/wTIGue+oA",
         "drm_scheme": "clearkey",
         "extension": "mpd"
-      },
+      }, 
       {
         "name": "Calle 13",
         "uri": "https://calle13-dash-movistarplus.emisiondof6.com/dash/calle13.isml/manifest.mpd",
@@ -2547,11 +1095,51 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
+	  {
+        "name": "Canal Decasa",
+        "uri": "https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd",
+        "kid": "CnSJ93veT2KGejutkj5UmA",
+        "key": "RS8vNJICQIq7CTbJK9ILdg",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "COSMO",
+        "uri": "https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd",
+        "kid": "RA0lH7CnQsa6EY4d0Nhv/g",
+        "key": "fJxXdCOuDuK8Zy8QsAiZaQ",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },  
+      {
+        "name": "DMAX",
+        "uri": "https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd",
+        "kid": "oVsovn6ERIqv8yFWsaEB8g",
+        "key": "mdtq6TPBCt2sxUUVGggUTQ",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      }, 
       {
         "name": "Discovery",
         "uri": "https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd",
         "kid": "DnmgH48fQliPebPgdAPshA",
         "key": "Pv79PhXl7boAvmZzNjuDHA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+	  {
+        "name": "AMC Break",
+        "uri": "https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd",
+        "kid": "XSjS7pLDRmmsTtOAy8LzFg",
+        "key": "KEo7uprKvGEJKCvYZtK4DA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "AMC Crime",
+        "uri": "https://crimeamc-dash-movistarplus.emisiondof6.com/dash/crimeamcor.isml/manifest.mpd",
+        "kid": "UNlwjZ2BTZGaKvRXBg3FXg",
+        "key": "A1j0j0qTtfmZv8WGmeoV7A",
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
