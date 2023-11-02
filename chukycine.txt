@@ -1,6 +1,6 @@
 [
   {
-    "name": "-- CANALES TDT --",
+    "name": " ⭐️M+ TDT⭐️ ",
     "samples": [
       {
         "name": "LA 1",
@@ -621,7 +621,7 @@
     ]
   },
   {
-    "name": "-- CINE - SERIES --",
+    "name": " 🥀M+ CINE SERIES🥀 ",
     "samples": [
 	  {
         "name": "La Resistencia",
@@ -858,7 +858,7 @@
     ]
   },
   {
-    "name": "-- INFANTILES --",
+    "name": " 👪M+ INFANTIL👪 ",
     "samples": [
       {
         "name": "Baby TV",
@@ -991,7 +991,7 @@
     ]
   },
   {
-    "name": "-- MUSICA --",
+    "name": " 🎸MUSICA🎸 ",
     "samples": [
       {
         "name": "M+ Música",
@@ -1060,7 +1060,7 @@
     ]
   },
   {
-    "name": "-- DOCUMENTALES --",
+    "name": " 📟M+ CULTURA Y DOCUS📟 ",
     "samples": [
       {
         "name": "M+ Documentales",
@@ -1152,9 +1152,8 @@
       }
     ]
   },
-  
   {
-    "name": "-- DEPORTES --",
+    "name": "⚽M+ DEPORTES",
     "samples": [
       {
         "name": "Movistar Plus+",
@@ -1204,27 +1203,27 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
-      {
-        "name": "DAZN F1",
-        "uri": "https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd",
-        "kid": "QTs623jdRoSnhmgZeGuINg",
-        "key": "ktblz74C/vLgnidhfjuUAw",
+	  {
+        "name": "Eurosport 1 (ES)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
-      {
-        "name": "DAZN F1 4K",
-        "uri": "https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd",
-        "kid": "G3ZhJzetTWeDdvbkbIEEow",
-        "key": "S4Tmo0OENYng7WPU46iCPg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
+	  {
         "name": "Eurosport 1",
         "uri": "https://eurosport1-dash-movistarplus.emisiondof6.com/dash/eurosport1.isml/manifest.mpd",
         "kid": "MyGLUh8ORHqTWtyZFVTGaw",
         "key": "82zUEGHuh0EbQduew62Hlg",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      }, 
+      {
+        "name": "Eurosport 2 (ES)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
@@ -1484,6 +1483,14 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
+	  {
+        "name": "Unbeaten (ES)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
       {
         "name": "LaLiga TV Hypermotion",
         "uri": "https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd",
@@ -1515,43 +1522,11 @@
         "key": "iNxxNBWlS+4I7HY/y+/oaA",
         "drm_scheme": "clearkey",
         "extension": "mpd"
-      },
-      {
-        "name": "DAZN LaLiga",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN 1 (ES)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN 2 (ES)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN F1",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
       }
     ]
   },
   {
-    "name": "-- DAZN - Live --",
+    "name": "🏆 DAZN LIVE",
     "samples": [
       {
         "name": "DAZN LaLiga",
@@ -1578,6 +1553,22 @@
         "extension": "mpd"
       },
       {
+        "name": "DAZN F1 4K",
+        "uri": "https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd",
+        "kid": "G3ZhJzetTWeDdvbkbIEEow",
+        "key": "S4Tmo0OENYng7WPU46iCPg",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },  
+	   {
+        "name": "DAZN F1",
+        "uri": "https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd",
+        "kid": "QTs623jdRoSnhmgZeGuINg",
+        "key": "ktblz74C/vLgnidhfjuUAw",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
         "name": "DAZN F1",
         "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd",
         "kid": "gvjioX2sRMChj2YEeTScWQ",
@@ -1585,30 +1576,14 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
-      {
-        "name": "Unbeaten (ES)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd",
+	  {
+        "name": "ZONA DAZN (IT)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-024/stream.mpd",
         "kid": "gvjioX2sRMChj2YEeTScWQ",
         "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
         "drm_scheme": "clearkey",
         "extension": "mpd"
-      },
-      {
-        "name": "Eurosport 1 (ES)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Eurosport 2 (ES)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
+      }, 
       {
         "name": "DAZN 1 (DE)",
         "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd",
@@ -1648,8 +1623,125 @@
         "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
         "drm_scheme": "clearkey",
         "extension": "mpd"
+      },	  
+	  {
+        "name": "DAZN 1 (UK)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-045/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
       },
       {
+        "name": "DAZN (Canal+ Ligue 1 Uber Eats)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-046/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+	        {
+        "name": "DAZN Eleven 1 (POR)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN Eleven 2 (POR)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN Eleven 3 (POR)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN Eleven 4 (POR)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN Eleven 5 (POR)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN Eleven 6 (POR)",
+        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd",
+        "kid": "gvjioX2sRMChj2YEeTScWQ",
+        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      }	  
+    ]
+  },
+  {
+    "name": "🏆 MIX SPORTS",
+    "samples": [
+      {
+        "name": "LaLiga Hypermotion",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd",
+        "kid": "bQiyZaZjnjLafIgNVJHj0g",
+        "key": "DJJVbKFLlfNnmTcQ58+8lA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "VSS",
+        "uri": "https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd",
+        "kid": "2NBQZSPZX8CC1srvYOhJeQ",
+        "key": "aZkv0te5IR1B7MIkOAPofA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "C MORE",
+        "uri": "https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd",
+        "kid": "0JTRQB+qXNKc+zYSdGKarQ",
+        "key": "eT079+FukwDAKY+ys7pvaA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Canal+ Premier League",
+        "uri": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd",
+        "kid": "FSPw24h3TYWKVGfggW4uzQ,c9cIHr6ZQHC+mxxMzMzBvw,zxRISkhWRku/s4OErn8c8g,OeOfss+DRNCBW6uvmNoSSQ",
+        "key": "VO1/xwiBVgxsFW1VLUSblg,BGP3Qkv84e/XvG04p11/Sg,o+Cyb0Ocy8EbaLyMPDFAzw,SY/JiB5rVYxSUVAMhtZvig",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Canal+ MotoGP",
+        "uri": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusmotogp-hd/dash-fhddvr/canalplusmotogp-hd.mpd",
+        "kid": "G08viW+5SSONxh5MTL7MoA,VvnidLoDQ7WccJeHalCJNA,DaxVli4CRLemVAjPjlw8Gg,V10ZSYewS0GRnWdOQ8+lmw",
+        "key": "ULcqn0gVehZRR4Uor6E4MA,7NJma2TsF2zQXsEeKyVISQ,DCOgSVYSnNWolxSK7dPsOg,Ae2PAvRQL47PXZvizr1BsA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Canal+ Formula 1",
+        "uri": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd",
+        "kid": "83A5lln1SVSoCg5Tx6h7QA,k8KJNVWiQFmKSgrkDrQH1Q,Kz7KkJPoTrOUGuw5YS3IFA,SCAy5NVMSGmIFNGZWj9FLA",
+        "key": "yU/YwwPbyfZBWsJ0TtkhEw,rHAAoGyMfsCzOIHXBRrcVg,l+LT4AN7A5Sz1SrSOTA40Q,aS/xMB111sb3VvwxGX//mg",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+	        {
         "name": "Sport Digital | Fussball (DE)",
         "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd",
         "kid": "gvjioX2sRMChj2YEeTScWQ",
@@ -1660,14 +1752,6 @@
       {
         "name": "NFL Network (USA)",
         "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-023/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "ZONA DAZN (IT)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-024/stream.mpd",
         "kid": "gvjioX2sRMChj2YEeTScWQ",
         "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
         "drm_scheme": "clearkey",
@@ -1746,22 +1830,6 @@
         "extension": "mpd"
       },
       {
-        "name": "DAZN 1 (UK)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-045/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN (Canal+ Ligue 1 Uber Eats)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-046/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
         "name": "Eleven 1 (NL)",
         "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-047/stream.mpd",
         "kid": "gvjioX2sRMChj2YEeTScWQ",
@@ -1818,107 +1886,6 @@
         "extension": "mpd"
       },
       {
-        "name": "DAZN Eleven 1 (POR)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN Eleven 2 (POR)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN Eleven 3 (POR)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN Eleven 4 (POR)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN Eleven 5 (POR)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "DAZN Eleven 6 (POR)",
-        "uri": "https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd",
-        "kid": "gvjioX2sRMChj2YEeTScWQ",
-        "key": "GxRPc+b+/pHNBfhQ4rWJ0A",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      }
-    ]
-  },
-  {
-    "name": "-- MIX --",
-    "samples": [
-      {
-        "name": "LaLiga Hypermotion",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd",
-        "kid": "bQiyZaZjnjLafIgNVJHj0g",
-        "key": "DJJVbKFLlfNnmTcQ58+8lA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "VSS",
-        "uri": "https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd",
-        "kid": "2NBQZSPZX8CC1srvYOhJeQ",
-        "key": "aZkv0te5IR1B7MIkOAPofA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "C MORE",
-        "uri": "https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd",
-        "kid": "0JTRQB+qXNKc+zYSdGKarQ",
-        "key": "eT079+FukwDAKY+ys7pvaA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Canal+ Premier League",
-        "uri": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd",
-        "kid": "FSPw24h3TYWKVGfggW4uzQ,c9cIHr6ZQHC+mxxMzMzBvw,zxRISkhWRku/s4OErn8c8g,OeOfss+DRNCBW6uvmNoSSQ",
-        "key": "VO1/xwiBVgxsFW1VLUSblg,BGP3Qkv84e/XvG04p11/Sg,o+Cyb0Ocy8EbaLyMPDFAzw,SY/JiB5rVYxSUVAMhtZvig",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Canal+ MotoGP",
-        "uri": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusmotogp-hd/dash-fhddvr/canalplusmotogp-hd.mpd",
-        "kid": "G08viW+5SSONxh5MTL7MoA,VvnidLoDQ7WccJeHalCJNA,DaxVli4CRLemVAjPjlw8Gg,V10ZSYewS0GRnWdOQ8+lmw",
-        "key": "ULcqn0gVehZRR4Uor6E4MA,7NJma2TsF2zQXsEeKyVISQ,DCOgSVYSnNWolxSK7dPsOg,Ae2PAvRQL47PXZvizr1BsA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Canal+ Formula 1",
-        "uri": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd",
-        "kid": "83A5lln1SVSoCg5Tx6h7QA,k8KJNVWiQFmKSgrkDrQH1Q,Kz7KkJPoTrOUGuw5YS3IFA,SCAy5NVMSGmIFNGZWj9FLA",
-        "key": "yU/YwwPbyfZBWsJ0TtkhEw,rHAAoGyMfsCzOIHXBRrcVg,l+LT4AN7A5Sz1SrSOTA40Q,aS/xMB111sb3VvwxGX//mg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
         "name": "USA Network",
         "uri": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
         "kid": "iCyfVhO0O0etxwqpaKMIzg",
@@ -1929,9 +1896,105 @@
     ]
   },
     {
-    "name": "PLUTO TV",
+    "name": " ⏰PLUTOTV 24/7⏰ ",
     "samples": [
       {
+        "name": "Ciudadanos por el mundo",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Empeños a lo bestia",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Wipeout",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Just for Laughs",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "South Park",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Bob Esponja",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Érase una vez...",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Toons Clásico",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Teen",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb944dc111bc0008fe7021/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Teen Stars",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Familiares",
+        "uri": "https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenFamily/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2895&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=5fb3908c-36a6-4e1e-a0c3-0e6ed6db0cdb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=718",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Brat TV",
+        "uri": "https://brat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/master.m3u8?ads_amagi_channel=710&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2412&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=2d0607bc-9f50-47dd-a58b-fb28f23c3a3a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	        {
         "name": "Pluto TV Star Trek",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
         "kid": "",
@@ -2050,8 +2113,221 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
+      }, 
+	       {
+        "name": "Crimen",
+        "uri": "https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_Crimen/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4783&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=bfed0cfc-d6f4-4837-9a53-8a9dd75c24bf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1493",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
       },
       {
+        "name": "Doctor Who",
+        "uri": "https://32ee47381d2c4f0f94add7af019d9483.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_DoctorWho/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3874&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=8bfe7202-f0f8-42f7-9967-590453caeca4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=945",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "BBC Drama",
+        "uri": "https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=9e8974a7-7594-4e97-acca-63bd5c543284&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=988",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pacific Blue",
+        "uri": "https://a40df8a071d2497a8d9fa848e5ae01e9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_PacificBlue/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5446&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=7619c40b-f9ce-4717-a38e-006c02ab4473&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1596",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Vive Kanal D Drama",
+        "uri": "https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=baca8cdf-02f2-4140-98e1-09be6c453167&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Yu-Gi-Oh!",
+        "uri": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=bec14ab3-6d5b-4c4c-abb9-847924d0656a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "AFV Family",
+        "uri": "https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3188&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=7ce88921-ba93-4849-a0e2-d90156114bb3&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=875",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Documentales",
+        "uri": "https://d555824e3a594aefaefc94552a43d278.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenSpotlight/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2497&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=3c425373-140f-4daa-8613-5d79f74580b8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=430",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Aventurama TV",
+        "uri": "https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-explorebytvplayer-es-rakuten/CDN/master.m3u8?ads_amagi_channel=758&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3492&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=961438d0-5f7b-4fd7-8d0c-559899bcaf62&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Naturaleza",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=28121ca3-39fb-459b-bec7-56a46301fa65&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Nature Time",
+        "uri": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9e47ba5c-ba34-407c-b0b0-a724e02b7f0b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8" 
+	  }
+    ]
+ },
+    {
+    "name": " ⚡PLUTO CINE⚡ ",
+    "samples": [
+      {  
+        "name": "Cortos",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61c49a1b5ec8d40008673251/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Trailers",
+        "uri": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=c9fba32b-e92c-47f6-9c9a-cc5ebac8bd31&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },   
+	  {
+        "name": "Cine Kids",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Cine Family ",
+        "uri": "https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	        {
+        "name": "Cine Europa",
+        "uri": "https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Cine Picante",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Horrorfy",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "terror_mania",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "cinepeliculas507",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_cinepeliculas507.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "beto_7hd",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "neflix01",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "peliculas_mania",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_peliculas_mania.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "cinemundo_plus",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_cinemundo_plus.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "cinemundo_ marvel",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_cinemundo_0.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "juancine_tv",
+        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_juancine_tv.flv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
         "name": "Pluto TV Cine Estelar",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
@@ -2078,6 +2354,14 @@
       {
         "name": "Pluto TV Sci-Fi",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Runtime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2134,110 +2418,6 @@
       {
         "name": "Pluto TV Cine Clásico",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Cortos",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61c49a1b5ec8d40008673251/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-	  {
-        "name": "Trailers",
-        "uri": "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=c9fba32b-e92c-47f6-9c9a-cc5ebac8bd31&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },  
-      {
-        "name": "Runtime",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Ciudadanos por el mundo",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Empeños a lo bestia",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Wipeout",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Just for Laughs",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "South Park",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Bob Esponja",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Érase una vez...",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Pluto TV Toons Clásico",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Pluto TV Teen",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb944dc111bc0008fe7021/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Pluto TV Teen Stars",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2324,14 +2504,6 @@
         "extension": "m3u8"
       },
       {
-        "name": "Cortos",
-        "uri": "https://amg00784-shortsinternati-shortstvfastes-rakuten-pdzlz.amagi.tv/hls/amagi_hls_data_rakutenAA-shortstvfastspain-rakuten/CDN/master.m3u8?ads_amagi_channel=772&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3579&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=3dbcddc1-88f2-47ef-877e-15a36dd03eff&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
         "name": "Dark Matter",
         "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=35f54fa6-c029-4088-bf6e-d661192baf77&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES",
         "kid": "",
@@ -2355,6 +2527,14 @@
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
+	  {
+        "name": "FilmRise Sci-Fi",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=05425bec-036f-4f09-bbf3-1237bb816a34&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },   
       {
         "name": "Wu Tang Collection TV - Español",
         "uri": "https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4542&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=7fcd5571-bfda-458e-aa9b-c1830178bb0d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1372",
@@ -2363,176 +2543,77 @@
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
-      {
-        "name": "Crimen",
-        "uri": "https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_Crimen/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4783&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=bfed0cfc-d6f4-4837-9a53-8a9dd75c24bf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1493",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "FilmRise Sci-Fi",
-        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=05425bec-036f-4f09-bbf3-1237bb816a34&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Doctor Who",
-        "uri": "https://32ee47381d2c4f0f94add7af019d9483.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_DoctorWho/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3874&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=8bfe7202-f0f8-42f7-9967-590453caeca4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=945",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "BBC Drama",
-        "uri": "https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=9e8974a7-7594-4e97-acca-63bd5c543284&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=988",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Pacific Blue",
-        "uri": "https://a40df8a071d2497a8d9fa848e5ae01e9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_PacificBlue/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5446&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=7619c40b-f9ce-4717-a38e-006c02ab4473&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1596",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
+	  {
         "name": "Rakuten VIKI",
         "uri": "https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=25d6960d-9ff2-406e-b7e8-38b7c8dd999c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
-      },
-      {
-        "name": "Vive Kanal D Drama",
-        "uri": "https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=baca8cdf-02f2-4140-98e1-09be6c453167&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Yu-Gi-Oh!",
-        "uri": "https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=bec14ab3-6d5b-4c4c-abb9-847924d0656a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "AFV Family",
-        "uri": "https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3188&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=7ce88921-ba93-4849-a0e2-d90156114bb3&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=875",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Familiares",
-        "uri": "https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenFamily/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2895&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=5fb3908c-36a6-4e1e-a0c3-0e6ed6db0cdb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=718",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Brat TV",
-        "uri": "https://brat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/master.m3u8?ads_amagi_channel=710&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2412&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=2d0607bc-9f50-47dd-a58b-fb28f23c3a3a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Documentales",
-        "uri": "https://d555824e3a594aefaefc94552a43d278.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenSpotlight/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2497&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=3c425373-140f-4daa-8613-5d79f74580b8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=430",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Aventurama TV",
-        "uri": "https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-explorebytvplayer-es-rakuten/CDN/master.m3u8?ads_amagi_channel=758&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3492&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=961438d0-5f7b-4fd7-8d0c-559899bcaf62&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Naturaleza",
-        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=28121ca3-39fb-459b-bec7-56a46301fa65&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      },
-      {
-        "name": "Nature Time",
-        "uri": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9e47ba5c-ba34-407c-b0b0-a724e02b7f0b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "m3u8"
-      }
+		  }
     ]
-  },
-  {
-    "name": "NETFLIX",
+ },
+    {
+    "name": " 👑VOD PELIS👑 ",
     "samples": [
-      {
-        "name": "NETFLIX ACTION",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652207.m3u8",
-	    "extension": "m3u8"
-      },
-      {
-        "name": "NETFLIX ACTION 2",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652206.m3u8",
+      {  	
+        "name": "Vampyre Nation",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/636a705e3cd246001343e2da.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
-      {
-        "name": "NETFLIX BOX OFFICE 2",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652208.m3u8",
+	  {
+        "name": "El Ascenso de Excalibur",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6299d394ba369d001340ea00.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
-      {
-        "name": "NETFLIX BOX OFFICE",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652209.m3u8",
+	  {
+        "name": "Corto Circuito",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f523c58db45a1001a79ad02.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },  
+	  {
+        "name": "Creepshow",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/637228ee3416c70013e6c7e6.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
-      {
-        "name": "NETFLIX COMEDY 2",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652210.m3u8",
+	  {
+        "name": "Fama",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f562df6f7db51001a3c5fda.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
-      {
-        "name": "NETFLIX COMEDY",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652211.m3u8",
-        "extension": "m3u8"
-      },
-      {
-        "name": "NETFLIX DISCOVERY",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652212.m3u8",
-        "extension": "m3u8"
-      },
-      {
-        "name": "NETFLIX HORROR",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652214.m3u8",
-        "extension": "m3u8"
-      },
-      {
-        "name": "NETFLIX THRILLER",
-        "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652215.m3u8",
+	  {
+        "name": "Devuélveme mi suerte",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b67a235736001ac44511.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
         "extension": "m3u8"
       }
     ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
