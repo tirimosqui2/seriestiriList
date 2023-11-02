@@ -3341,6 +3341,85 @@
       }
     ]
   },
+  {
+   "name": "NETFLIX Cine",
+    "samples": [
+      {
+        "name": "NETFLIX ACTION 2",
+        "uri": "http://326195922287652206.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652206.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "NETFLIX ACTION",
+        "uri": "http://326195922287652207.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652207.m3u8",
+        "logo":"https://docdog.top/logo/countries/spain/Netflix.png",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "NETFLIX BOX OFFICE 2",
+        "uri": "http://326195922287652208.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652208.m3u8",
+		"tvg-logo": "https://docdog.top/logo/countries/spain/Netflix.png",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": " NETFLIX BOX OFFICE",
+        "uri": "http://326195922287652209.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652209.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "NETFLIX COMEDY 2",
+        "uri": "http://326195922287652210.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652210.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "NETFLIX COMEDY",
+        "uri": "http://326195922287652211.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652211.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "NETFLIX DISCOVERY",
+        "uri": "http://326195922287652212.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652212.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "NETFLIX HORROR",
+        "uri": "http://326195922287652214.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652214.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "NETFLIX THRILLER",
+        "uri": "http://326195922287652215.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652215.m3u8",
+          "kid": "",
+         "key": "",
+         "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      }
+    ]
+  },  
 {
    "name": "Estrenos de Cine",
     "samples": [
