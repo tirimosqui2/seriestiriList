@@ -3355,7 +3355,6 @@
       {
         "name": "NETFLIX ACTION",
         "uri": "http://326195922287652207.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652207.m3u8",
-        "logo": "https://docdog.top/logo/countries/spain/Netflix.png",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -3364,7 +3363,6 @@
       {
         "name": "NETFLIX BOX OFFICE 2",
         "uri": "http://326195922287652208.of1030ok.xyz:80/live/ja0307960/TpnNwSgNV@/652208.m3u8",
-		"tvg-logo": "https://docdog.top/logo/countries/spain/Netflix.png",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
