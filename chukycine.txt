@@ -2486,9 +2486,9 @@
     ]
   },
   {
-   "name": "NETFLIX",
+    "name": "NETFLIX",
     "samples": [
-	  {
+      {
         "name": "NETFLIX ACTION",
         "uri": "http://185.233.16.90:8080/live/ja0307960/TpnNwSgNV@/652207.m3u8",
 	    "extension": "m3u8"
