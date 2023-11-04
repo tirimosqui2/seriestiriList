@@ -2740,13 +2740,13 @@
       },
 	  {
         "name": "DOA Dead or Alive",
-        "uri": "https://www.youtube.com/embed/cMSB9vgxeUg",
+        "uri": "https://www.youtube.com/video/cMSB9vgxeUg",
         "extension": "MP4"
       },
 	  {
         "name": "DOA Dead or Alive op2",
-        "uri": "https://www.youtube.com/embed/cMSB9vgxeUg",
-        "extension": "https"
+        "uri": "https://www.youtube.com//watch?v=cMSB9vgxeUg",
+        "extension": "MP4"
       }
     ]
   }
