@@ -2605,12 +2605,12 @@
       {
         "name": "Sigue el ritmo 2020",
         "uri": "https://m.ok.ru/video/1449812429373",
-        "extension": "OK.RU"
+        "extension": "m3u8"
       },
 	  {
         "name": "Sigue el ritmo 2020 op ",
         "uri": "https://ok.ru/videoembed/1449812429373",
-        "extension": "html"
+        "extension": "m3u8"
       },
       {  	
         "name": "Vampyre Nation",
