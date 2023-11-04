@@ -1347,7 +1347,7 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
-	        {
+	  {
         "name": "M+ LaLiga TV UHD",
         "uri": "https://uhdlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd",
         "kid": "Lgu3+wqkQXWKkedYvzDYKQ",
@@ -1707,7 +1707,7 @@
     ]
   },
   {
-    "name": "🏆 MIX SPORTS",
+    "name": "🏆 MIX SPORTS 🏆",
     "samples": [
       {
         "name": "LaLiga Hypermotion",
@@ -1716,6 +1716,20 @@
         "key": "DJJVbKFLlfNnmTcQ58+8lA",
         "drm_scheme": "clearkey",
         "extension": "mpd"
+      },
+	  {
+        "name": "beIN SPORTS 1 Premium",
+        "uri": "https://gfdhdg-usea.streaming.media.azure.net/cd9b4cd6-ffce-40b8-bc93-41ee8bfedc80/8176054d-0f3a-495a-ba62-ebee9d2b8260.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-cmaf)",
+        "extension": "ism"
+      },
+      {
+        "name": "beIN SPORTS 2 Premium",
+        "uri": "https://5897291-euwe.streaming.media.azure.net/6f52d0fa-4873-46a2-bf40-60757c529e7a/output-20220906-153631-manifest.ism/QualityLevels(1000000)/Manifest(video,format=m3u8-cmaf)",
+        "extension": "ism"
+      },
+      {
+        "name": "beIN Sports XTRA Ñ",
+        "uri": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8"
       },
       {
         "name": "VSS",
@@ -1916,63 +1930,63 @@
     "samples": [
       {
         "name": "Ciudadanos por el mundo",
-        "uri": "https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8",
-		"kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Empeños a lo bestia",
-        "uri": "https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8",
-		"kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Wipeout",
-        "uri": "https://i.mjh.nz/PlutoTV/604f8125c6669b00077f7699-alt.m3u8",
-		"kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Just for Laughs",
-        "uri": "https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8",
-		 "kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "South Park",
-        "uri": "https://i.mjh.nz/PlutoTV/628751bb7154a40007168843-alt.m3u8",
-		"kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Bob Esponja",
-        "uri": "https://i.mjh.nz/PlutoTV/5f1aca0b4e448e00075e7c5e-alt.m3u8",
-		"kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Érase una vez...",
-        "uri": "https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8",
-		"kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Pluto TV Toons Clásico",
-        "uri": "https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1980,7 +1994,7 @@
       },
       {
         "name": "Pluto TV Teen",
-        "uri": "https://i.mjh.nz/PlutoTV/63eb944dc111bc0008fe7021-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb944dc111bc0008fe7021/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -1988,7 +2002,7 @@
       },
       {
         "name": "Pluto TV Teen Stars",
-        "uri": "https://i.mjh.nz/PlutoTV/60016a60a8e3520008e0d331-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2010,50 +2024,50 @@
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
-	  {
+	        {
         "name": "Pluto TV Star Trek",
-        "uri": "https://i.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8",
-	    "kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Doctor Who",
-        "uri": "https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8",
-	    "kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Sensación de Vivir (90210)",
-        "uri": "https://i.mjh.nz/PlutoTV/6245c2a5eec07b0007249fc8-alt.m3u8",
-		"kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c2a5eec07b0007249fc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Melrose Place",
-        "uri": "https://i.mjh.nz/PlutoTV/6245c03922d9d4000760d205-alt.m3u8",
-		 "kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "Los Ángeles de Charlie",
-        "uri": "https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8",
-		 "kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb93cea995710008989e3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
       {
         "name": "La niñera",
-        "uri": "https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8",
-		 "kid": "",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
@@ -2069,6 +2083,14 @@
       {
         "name": "Pluto TV K-Drama",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "BBC Drama",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2125,6 +2147,22 @@
 	       {
         "name": "Crimen",
         "uri": "https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_Crimen/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4783&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=bfed0cfc-d6f4-4837-9a53-8a9dd75c24bf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1493",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Doctor Who",
+        "uri": "https://32ee47381d2c4f0f94add7af019d9483.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_DoctorWho/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3874&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=8bfe7202-f0f8-42f7-9967-590453caeca4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=945",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "BBC Drama",
+        "uri": "https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=9e8974a7-7594-4e97-acca-63bd5c543284&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=988",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2201,7 +2239,7 @@
     "samples": [
       {  
         "name": "Cortos",
-        "uri": "https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61c49a1b5ec8d40008673251/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2329,7 +2367,7 @@
       },
 	  {
         "name": "Pluto TV Cine Estelar",
-        "uri": "https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2337,7 +2375,7 @@
       },
       {
         "name": "Pluto TV Cine Acción",
-        "uri": "https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2345,7 +2383,7 @@
       },
       {
         "name": "Pluto TV Horror",
-        "uri": "https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2353,7 +2391,7 @@
       },
       {
         "name": "Pluto TV Sci-Fi",
-        "uri": "https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2361,7 +2399,7 @@
       },
 	  {
         "name": "Runtime",
-        "uri": "https://i.mjh.nz/PlutoTV/6086d3f420fc8500075f8dbf-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2369,7 +2407,7 @@
       },
       {
         "name": "Pluto TV Cine Comedia",
-        "uri": "https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2377,7 +2415,7 @@
       },
       {
         "name": "Pluto TV Western",
-        "uri": "https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2385,7 +2423,7 @@
       },
       {
         "name": "Pluto TV Cine Romántico",
-        "uri": "https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2393,7 +2431,7 @@
       },
       {
         "name": "Pluto TV Thrillers",
-        "uri": "https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2401,7 +2439,7 @@
       },
       {
         "name": "Pluto TV Cine Drama",
-        "uri": "https://i.mjh.nz/PlutoTV/5f1ac947dcd00d0007937c08-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2409,7 +2447,7 @@
       },
       {
         "name": "Pluto TV Cine de autor",
-        "uri": "https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
@@ -2417,7 +2455,7 @@
       },
       {
         "name": "Pluto TV Cine Clásico",
-        "uri": "https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
