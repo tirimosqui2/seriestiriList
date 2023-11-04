@@ -2604,19 +2604,13 @@
       },
       {
         "name": "Sigue el ritmo 2020",
-        "uri": "http://ok.ru/web-api/video/moviePlayer/1449812429373",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "x-shockwave-flash"
+        "uri": "https://m.ok.ru/video/1449812429373",
+        "extension": "OK.RU"
       },
 	  {
         "name": "Sigue el ritmo 2020 op ",
         "uri": "https://ok.ru/videoembed/1449812429373",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "text/html"
+        "extension": "html"
       },
       {  	
         "name": "Vampyre Nation",
