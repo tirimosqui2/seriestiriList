@@ -2602,16 +2602,6 @@
         "drm_scheme": "clearkey",
         "extension": "mkv"
       },
-      {
-        "name": "Sigue el ritmo 2020",
-        "uri": "https://m.ok.ru/video/1449812429373",
-        "extension": "m3u8"
-      },
-	  {
-        "name": "Sigue el ritmo 2020 op ",
-        "uri": "https://ok.ru/videoembed/1449812429373",
-        "extension": "m3u8"
-      },
       {  	
         "name": "Vampyre Nation",
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/636a705e3cd246001343e2da.m3u8",
@@ -2745,6 +2735,78 @@
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b67a235736001ac44511.m3u8",
         "kid": "",
         "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Thor",
+        "uri": "https://vod-ftc-eu-south-2.media.dssott.com/ps01/disney/3565dbaf-3754-4a2f-8f85-abd9ac981b8e/regular-ctr-sw-6efe5ef9-e09a-4462-be4d-f53ca28e15d3-efe840e8-cb94-46a1-8b64-5d6fcbb8c117.m3u8",
+        "kid": "flTxfPLWRoSxfJBEVAZjKw==",
+        "key": "oy0lMdMvdm+wBfn7dQtQ6w==",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Thor: Dark World",
+        "uri": "https://vod-l3c-eu-south-2.media.dssott.com/ps01/disney/0336f60a-0404-4fc7-b2af-4f1b0e62306e/regular-ctr-sw-be6f6794-139f-42a0-976e-751a36749b2e-6c5c59f1-6c80-4344-8e60-3752a4ef1b66.m3u8",
+        "kid": "gY2rhd3uTM6Xwfwr/MrHaw==",
+        "key": "ucMxmJHSWkOSdSZO5XzqJw==",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Thor: Love and Thunder",
+        "uri": "https://vod-ftc-eu-south-2.media.dssott.com/ps01/disney/c3301a90-5326-436d-8b42-4c0c258db05e/regular-ctr-sw-f98a5645-f208-4e9a-be70-fe58eb059d37-c6524c67-dc6b-4b80-ae82-b1d1842c9ba7.m3u8",
+        "kid": "BUMFC36YRsaBvTIb/kPsCw",
+        "key": "s0JOQh0ki57SkK9yhK0YTw",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Thor: Dark World",
+        "uri": "https://vod-l3c-eu-south-2.media.dssott.com/ps01/disney/0336f60a-0404-4fc7-b2af-4f1b0e62306e/regular-ctr-sw-be6f6794-139f-42a0-976e-751a36749b2e-6c5c59f1-6c80-4344-8e60-3752a4ef1b66.m3u8",
+        "kid": "818dab85ddee4cce97c1fc2bfccac76b",
+        "key": "b9c3319891d25a439275264ee57cea27",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Iron Man",
+        "uri": "https://vod-akc-eu-south-2.media.dssott.com/ps01/disney/610fe8ff-018e-41b9-9a6a-006e609f6137/ctr-all-ca8495b3-7d83-4328-8cfd-4f7c5fcf8145-71f4c032-7f6e-4052-b24d-d8e003583925.m3u8",
+        "kid": "f0a448c7c54c4cffaf561c0a04f2e102",
+        "key": "7da3284129daabbb9cea6f78fa546209",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Iron Man 2",
+        "uri": "https://vod-ftc-eu-south-2.media.dssott.com/ps01/disney/c2cd6dbb-56da-4f20-9cfd-2f997e9bbcc6/regular-ctr-sw-f8a26be7-0510-43f9-98b0-c1037b12bc50-1c00bb7a-5d72-4579-b985-6b5a910f6425.m3u8",
+        "kid": "c8c45f0503dc45bcafd41641a3d31410",
+        "key": "7517209a680c5e35419187bfbed7c258",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Iron Man 3",
+        "uri": "https://vod-ftc-eu-south-2.media.dssott.com/ps01/disney/287f6361-7121-4931-97cc-38680fddabc5/regular-ctr-sw-b2048288-52b3-4962-a1f5-56b544a45602-52dfaafd-7e84-4a44-ae39-dee4f5c22186.m3u8",
+        "kid": "9bRHM6RQS66pHJUza+89UQ==",
+        "key": "yNA/u+7sFB+Vq7mgGwbu0w==",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
+        "name": "Guardians of Galaxy",
+        "uri": "https://vod-akc-eu-south-2.media.dssott.com/ps01/disney/9445e21b-c137-4d40-b816-7cbee3987232/regular-ctr-sw-0f9722e8-10c5-4d74-800d-452979f87751-15541e66-6fa8-44bf-b0b9-038d802afcec.m3u8",
+        "kid": "ccce6441a4f04fa785637243cc39344b",
+        "key": "2cb19135d82815b8397dd04aad4e7a25",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Guardians of Galaxy 2",
+        "uri": "https://vod-akc-eu-south-2.media.dssott.com/ps01/disney/5b4bff50-7342-4eaf-9eaa-8a6887c8d96f/regular-ctr-sw-37dac12c-0c9f-403b-a9d6-aabc3ace34ac-a69bb6ae-ae21-4986-be81-776a58d690fd.m3u8",
+        "kid": "c5e73d6dd4a74337a94590e61802ee66",
+        "key": "911ad4ba5545e3b732d41815bf882118",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       }
