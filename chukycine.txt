@@ -2010,10 +2010,10 @@
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },
-	        {
+	  {
         "name": "Pluto TV Star Trek",
         "uri": "https://i.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8",
-		 "kid": "",
+	    "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
@@ -2021,7 +2021,7 @@
       {
         "name": "Doctor Who",
         "uri": "https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8",
-		 "kid": "",
+	    "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
@@ -2073,7 +2073,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
-      },,
+      },
       {
         "name": "Andrómeda",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
