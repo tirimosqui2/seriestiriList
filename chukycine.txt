@@ -2602,21 +2602,21 @@
         "drm_scheme": "clearkey",
         "extension": "mkv"
       },
-	  {
-        "name": "Una noche en el museo 3",
-        "uri": "http://fina.dyndns.tv/Peliculas/Una%20noche%20en%20el%20museo%203.mkv",
-        "kid": "",
-        "key": "",
-        "drm_scheme": "clearkey",
-        "extension": "mkv"
-      },
       {
-        "name": "El ultimo cazador de brujas",
-        "uri": "http://fina.dyndns.tv/Peliculas/El%20ultimo%20cazador%20de%20brujas.mkv",
+        "name": "Sigue el ritmo 2020",
+        "uri": "http://ok.ru/web-api/video/moviePlayer/1449812429373",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
-        "extension": "mkv"
+        "extension": "x-shockwave-flash"
+      },
+	  {
+        "name": "Sigue el ritmo 2020 op ",
+        "uri": "https://ok.ru/videoembed/1449812429373",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "text/html"
       },
       {  	
         "name": "Vampyre Nation",
