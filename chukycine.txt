@@ -2602,6 +2602,22 @@
         "drm_scheme": "clearkey",
         "extension": "mkv"
       },
+	  {
+        "name": "Una noche en el museo 3",
+        "uri": "http://fina.dyndns.tv/Peliculas/Una%20noche%20en%20el%20museo%203.mkv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mkv"
+      },
+      {
+        "name": "El ultimo cazador de brujas",
+        "uri": "http://fina.dyndns.tv/Peliculas/El%20ultimo%20cazador%20de%20brujas.mkv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mkv"
+      },
       {  	
         "name": "Vampyre Nation",
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/636a705e3cd246001343e2da.m3u8",
@@ -2626,13 +2642,101 @@
         "drm_scheme": "clearkey",
         "extension": "m3u8"
       },  
-	  {
+      {
         "name": "Creepshow",
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/637228ee3416c70013e6c7e6.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
+      },
+      {
+        "name": "Creepshow 2",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6372298ccea64000135d61d1.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Más Allá de la Onda Expansiva",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/64103a61183a5400136fa8f4.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Boo! A Madea Halloween",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6086b369c80199001ac6373c.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "regreso al futuro i-1985",
+        "uri": "https://archive.org/download/regreso-al-futuro-i-1985/Regreso%20al%20futuro%20I%20%281985%29.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "regreso al futuro ii-1989",
+        "uri": "https://archive.org/download/regreso-al-futuro-ii-1989/Regreso%20Al%20Futuro%20II%20%281989%29.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+	  {
+        "name": "regreso al futuro iii-1990",
+        "uri": "https://archive.org/download/regreso-al-futuro-iii-1990/Regreso%20Al%20Futuro%20III%20%281990%29.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Akira 1988",
+        "uri": "https://archive.org/download/akira-1988_20230323/Akira%20%281988%29.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Los Cazafantasmas 1984",
+        "uri": "https://archive.org/download/los-cazafantasmas-1984/Los%20Cazafantasmas%20%281984%29.m4v",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m4v"
+      },
+      {
+        "name": "En compania de lobos 1984",
+        "uri": "https://archive.org/download/en-compania-de-lobos/En%20Compa%C3%B1ia%20De%20Lobos.m4v",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m4v"
+      },
+      {
+        "name": "Residentevil bienvenidos a raccoon city 2021",
+        "uri": "https://archive.org/download/resident.evil.welcome.to.raccoon.city.-2021/Resident.evil.welcome.to.raccoon.city.2021.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Transformers 2023",
+        "uri": "https://archive.org/download/terraformars_202306/terraformars.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
       },
 	  {
         "name": "Fama",
