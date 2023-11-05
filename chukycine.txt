@@ -2803,6 +2803,14 @@
         "extension": "m3u8"
       },
 	  {
+        "name": "Sevillanas de Brooklyn",
+        "uri": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SFE24TI/mp4/1/0/1688387426601.mp4/",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+	  {
         "name": "Devuélveme mi suerte",
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b67a235736001ac44511.m3u8",
         "kid": "",
