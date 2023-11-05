@@ -2690,6 +2690,62 @@
         "drm_scheme": "clearkey",
         "extension": "mp4"
       },
+	  {
+        "name": "Una Familia Genial",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fe9b7304aa70a001a4fce36.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Las Hermanas Vampiro 1",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b697316d793400134fb916.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Las Hermanas Vampiro 2",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b698998ba71d0013ecebca.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Las Hermanas Vampiro 3",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b69a154da5ab00130aff9f.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Mi mejor verano",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653a27c58026ff001ac4988c.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Dos colgados en Chicago-Los visitantes cruzan el charco",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/616698ee178213001ad6c5fc.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Empire Records",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60780ca8f96a44001a1d815a.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
       {
         "name": "Akira 1988",
         "uri": "https://archive.org/download/akira-1988_20230323/Akira%20%281988%29.mp4",
@@ -2731,6 +2787,14 @@
         "extension": "mp4"
       },
 	  {
+        "name": "Leyenda",
+        "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b67c235736001ac4453d.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+	  {
         "name": "Fama",
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f562df6f7db51001a3c5fda.m3u8",
         "kid": "",
@@ -2740,7 +2804,6 @@
       },
 	  {
         "name": "Devuélveme mi suerte",
-		"logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7yAj4jh26FWNxGA7d9XVNTk4Kbd.jpg",
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b67a235736001ac44511.m3u8",
         "kid": "",
         "key": "",
