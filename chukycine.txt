@@ -2745,16 +2745,7 @@
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
-      },
-	  {
-        "name": "DOA Dead or Alive",
-        "uri": "https://www.youtube.com/video/cMSB9vgxeUg",
-        "extension": "MP4"
-      },
-	  {
-        "name": "DOA Dead or Alive op2",
-        "uri": "https://www.youtube.com//watch?v=cMSB9vgxeUg",
-        "extension": "MP4"
+		"imageUri": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7yAj4jh26FWNxGA7d9XVNTk4Kbd.jpg"
       }
     ]
   }
