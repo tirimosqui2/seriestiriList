@@ -2740,13 +2740,13 @@
       },
 	  {
         "name": "Devuélveme mi suerte",
+		"logo": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7yAj4jh26FWNxGA7d9XVNTk4Kbd.jpg",
         "uri": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b67a235736001ac44511.m3u8",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "m3u8"
-		"imageUri": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7yAj4jh26FWNxGA7d9XVNTk4Kbd.jpg"
-      }
+     }
     ]
   }
 ]
