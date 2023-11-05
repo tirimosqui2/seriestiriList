@@ -775,14 +775,6 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
-	   {
-        "name": "M+ Terror",
-        "uri": "https://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd",
-        "kid": "4+CwRxYwSX64H8F/OaUiGA",
-        "key": "T0RVhmTj78GBG3zoi+tZeg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
       {
         "name": "DARK",
         "uri": "https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd",
@@ -1125,9 +1117,6 @@
         "key": "mdtq6TPBCt2sxUUVGggUTQ",
         "drm_scheme": "clearkey",
         "extension": "mpd"
-	    "src": "https://media.tvup.cloud/canales/color_lg_5ac5e52a03080405b20a4fe8.png",
-        "sizes": "144x144",
-        "type": "image/png"	
       }, 
       {
         "name": "Discovery",
@@ -2751,13 +2740,13 @@
       },
 	  {
         "name": "DOA Dead or Alive",
-        "uri": "https://www.youtube.com/embed/cMSB9vgxeUg",
+        "uri": "https://www.youtube.com/video/cMSB9vgxeUg",
         "extension": "MP4"
       },
 	  {
         "name": "DOA Dead or Alive op2",
-        "uri": "https://www.youtube.com/embed/cMSB9vgxeUg",
-        "extension": "https"
+        "uri": "https://www.youtube.com//watch?v=cMSB9vgxeUg",
+        "extension": "MP4"
       }
     ]
   }
