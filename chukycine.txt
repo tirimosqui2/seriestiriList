@@ -1715,13 +1715,21 @@
     ]
   },
   {
-    "name": "🏆 MIX SPORTS 🏆",
+    "name": "🗝 MIX SPORTS 🗝",
     "samples": [
       {
         "name": "LaLiga Hypermotion",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd",
         "kid": "bQiyZaZjnjLafIgNVJHj0g",
         "key": "DJJVbKFLlfNnmTcQ58+8lA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+	  {
+        "name": "NBA TV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd",
+        "kid": "0MON48mETk6fl13/s+/4rQ",
+        "key": "FByg/fbrrfpxB1drjgnhFw",
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
@@ -1738,22 +1746,6 @@
       {
         "name": "beIN Sports XTRA Ñ",
         "uri": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8"
-      },
-      {
-        "name": "VSS",
-        "uri": "https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd",
-        "kid": "2NBQZSPZX8CC1srvYOhJeQ",
-        "key": "aZkv0te5IR1B7MIkOAPofA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "C MORE",
-        "uri": "https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd",
-        "kid": "0JTRQB+qXNKc+zYSdGKarQ",
-        "key": "eT079+FukwDAKY+ys7pvaA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
       },
       {
         "name": "Canal+ Premier League",
@@ -1928,6 +1920,51 @@
         "uri": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
         "kid": "iCyfVhO0O0etxwqpaKMIzg",
         "key": "3lNO+JFL/mK6PN1r254cBA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      }
+    ]
+  },
+    {
+    "name": " 🎲sky sport🎲 ™ ",
+    "samples": [
+      {
+        "name": "Sky Sport F1",
+        "uri": "https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd",
+        "kid": "AAXeImsWrl1130iqYJnMpg",
+        "key": "degFGVUe3APokOE/AavSbQ",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Sky Sport Main Event",
+        "uri": "https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/manifest_hd.mpd",
+        "kid": "AAWM4eL+yH2emzNX3d9BTQ",
+        "key": "WrLgjtYYOXSun/KceLdiwQ",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Sky Sport Premier League",
+        "uri": "https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd",
+        "kid": "AAODSeFYP/hYK+wH47VJfQ",
+        "key": "DsG4a5UMOiCH+/+hiwV0Fw",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Sky Sport Football",
+        "uri": "https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_hd.mpd",
+        "kid": "AAMqO31wR5wkfEI5k/vXYQ",
+        "key": "6mWUPfJamAcaKxAeInka7g",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "Sky Sport Arena",
+        "uri": "https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsarena)/manifest_hd.mpd",
+        "kid": "AAMbERP6eOJZAEQksTIcqQ",
+        "key": "qoOF/yTwobBrWFk/qkDHEA",
         "drm_scheme": "clearkey",
         "extension": "mpd"
       }
@@ -2600,15 +2637,127 @@
     ]
  },
     {
-    "name": " 👑VOD PELIS👑 ",
+    "name": " 👑PELICULAS👑 ",
     "samples": [
        {
-        "name": "Indiana Jones y el dial del destino 2023",
-        "uri": "https://spyderrock.com/beVD6406-IndianaJonesyeldialdeldestino2023.mkv",
+        "name": "Mansión encantada 2023",
+        "uri": "https://iptvbin.com/VIDEO/encantada.mkv",
         "kid": "",
         "key": "",
         "drm_scheme": "clearkey",
         "extension": "mkv"
+      },
+      {
+        "name": "Indiana Jones y el dial del destino 2023",
+        "uri": "https://iptvbin.com/VIDEO/Indiana.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "De perdidos a Rio 2023",
+        "uri": "https://iptvbin.com/VIDEO/perdidos.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Flash 2023",
+        "uri": "https://iptvbin.com/VIDEO/Flash.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Transformers: El despertar de las bestias 2023",
+        "uri": "https://iptvbin.com/VIDEO/Transformers.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Como Dios manda 2023",
+        "uri": "https://iptvbin.com/VIDEO/Dioss.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Blue Beetle 2023",
+        "uri": "https://iptvbin.com/VIDEO/Beetle.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "La monja II 2023",
+        "uri": "https://iptvbin.com/VIDEO/monja.mkv",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mkv"
+      },
+      {
+        "name": "Winnie the Pooh: Sangre y miel 2023",
+        "uri": "https://iptvbin.com/VIDEO/Winnie.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Super Mario Bros la película 2023",
+        "uri": "https://iptvbin.com/VIDEO/Mario.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Dungeons and Dragons Honor entre ladrones 2023",
+        "uri": "https://iptvbin.com/VIDEO/Dungeons.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Scream VI  2023",
+        "uri": "https://iptvbin.com/VIDEO/Scream.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Guardianes de la galaxia Vol. 3 2023",
+        "uri": "https://iptvbin.com/VIDEO/galaxia.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Fast & Furious X 2023",
+        "uri": "https://iptvbin.com/VIDEO/Fast.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
+      },
+      {
+        "name": "Megalodón 2 La Fosa 2023",
+        "uri": "https://iptvbin.com/VIDEO/Mega.mp4",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "mp4"
       },
       {  	
         "name": "Vampyre Nation",
