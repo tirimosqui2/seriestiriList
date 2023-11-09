@@ -1,6 +1,6 @@
 [
   {
-    "name": " ⭐️M+ TDT⭐️ ",
+    "name": " ⭐️M+ TDT⭐️ ™ ",
     "samples": [
       {
         "name": "LA 1",
@@ -621,7 +621,7 @@
     ]
   },
   {
-    "name": " 🥀M+ CINE SERIES🥀 ",
+    "name": " 🥀M+ CINE SERIES🥀 ™ ",
     "samples": [
 	  {
         "name": "La Resistencia",
@@ -866,7 +866,7 @@
     ]
   },
   {
-    "name": " 👪M+ INFANTIL👪 ",
+    "name": " 👪M+ INFANTIL👪 ™ ",
     "samples": [
       {
         "name": "Baby TV",
@@ -999,7 +999,7 @@
     ]
   },
   {
-    "name": " 🎸MUSICA🎸 ",
+    "name": " 🎸MUSICA🎸 ™ ",
     "samples": [
       {
         "name": "M+ Música",
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "name": " 📟M+ CULTURA Y DOCUS📟 ",
+    "name": " 📟M+ CULTURA Y DOCUS📟 ™ ",
     "samples": [
       {
         "name": "M+ Documentales",
@@ -1161,7 +1161,7 @@
     ]
   },
   {
-    "name": "⚽M+ DEPORTES⚽",
+    "name": "⚽M+ DEPORTES⚽ ™ ",
     "samples": [
       {
         "name": "Movistar Plus+",
@@ -1523,6 +1523,14 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
+	  {
+        "name": "LaLiga Hypermotion op1",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd",
+        "kid": "bQiyZaZjnjLafIgNVJHj0g",
+        "key": "DJJVbKFLlfNnmTcQ58+8lA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
       {
         "name": "LaLiga TV Hypermotion 2",
         "uri": "https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd",
@@ -1550,7 +1558,7 @@
     ]
   },
   {
-    "name": "🏆 DAZN TV 🏆",
+    "name": "🏆 DAZN TV 🏆 ™ ",
     "samples": [
       {
         "name": "DAZN LaLiga",
@@ -1715,24 +1723,8 @@
     ]
   },
   {
-    "name": "🗝 MIX SPORTS 🗝",
+    "name": " 🎲Varios deportes🎲 ™ ",
     "samples": [
-      {
-        "name": "LaLiga Hypermotion",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd",
-        "kid": "bQiyZaZjnjLafIgNVJHj0g",
-        "key": "DJJVbKFLlfNnmTcQ58+8lA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-	  {
-        "name": "NBA TV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd",
-        "kid": "0MON48mETk6fl13/s+/4rQ",
-        "key": "FByg/fbrrfpxB1drjgnhFw",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
 	  {
         "name": "beIN SPORTS 1 Premium",
         "uri": "https://gfdhdg-usea.streaming.media.azure.net/cd9b4cd6-ffce-40b8-bc93-41ee8bfedc80/8176054d-0f3a-495a-ba62-ebee9d2b8260.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-cmaf)",
@@ -1747,6 +1739,22 @@
         "name": "beIN Sports XTRA Ñ",
         "uri": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8"
       },
+	        {
+        "name": "beIN SPORTS 5",
+        "uri": "https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax5-hd/dash-fhddvr/beinsportsmax5-hd.mpd",
+        "kid":"qV8-7doIQPSZuinTHaQ3_g,sVAqaTOBSCic7xPkKVtNiQ",
+        "key":"b79GwqBTyxb12ifeWwsjzw,LjTPVaCesh1biolTwLBllw",
+        "drm_scheme": "clearkey",
+        "extension":"mpd"
+      },
+      {
+        "name": "beIN SPORTS 6",
+        "uri": "https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd",
+        "kid":"OXHswVD+RxSJtmbVJlVhzg,wI9htR0ARzi9yP+djmZzBA",
+        "key":"ltIYoOkiG1Xm3ybYGdAMcw,5GYL5CXWYo4abikDvEBIaw",
+        "drm_scheme": "clearkey",
+        "extension":"mpd"
+      },  
       {
         "name": "Canal+ Premier League",
         "uri": "https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd",
@@ -1926,52 +1934,7 @@
     ]
   },
     {
-    "name": " 🎲sky sport🎲 ™ ",
-    "samples": [
-      {
-        "name": "Sky Sport F1",
-        "uri": "https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd",
-        "kid": "AAXeImsWrl1130iqYJnMpg",
-        "key": "degFGVUe3APokOE/AavSbQ",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Sky Sport Main Event",
-        "uri": "https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/manifest_hd.mpd",
-        "kid": "AAWM4eL+yH2emzNX3d9BTQ",
-        "key": "WrLgjtYYOXSun/KceLdiwQ",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Sky Sport Premier League",
-        "uri": "https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd",
-        "kid": "AAODSeFYP/hYK+wH47VJfQ",
-        "key": "DsG4a5UMOiCH+/+hiwV0Fw",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Sky Sport Football",
-        "uri": "https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_hd.mpd",
-        "kid": "AAMqO31wR5wkfEI5k/vXYQ",
-        "key": "6mWUPfJamAcaKxAeInka7g",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Sky Sport Arena",
-        "uri": "https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsarena)/manifest_hd.mpd",
-        "kid": "AAMbERP6eOJZAEQksTIcqQ",
-        "key": "qoOF/yTwobBrWFk/qkDHEA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      }
-    ]
-  },
-    {
-    "name": " ⏰PLUTOTV 24/7⏰ ",
+    "name": " ⏰PLUTOTV 24/7⏰ ™ ",
     "samples": [
       {
         "name": "Ciudadanos por el mundo",
@@ -2637,7 +2600,7 @@
     ]
  },
     {
-    "name": " 👑PELICULAS👑 ",
+    "name": " 👑PELICULAS👑 ™ ",
     "samples": [
        {
         "name": "Mansión encantada 2023",
