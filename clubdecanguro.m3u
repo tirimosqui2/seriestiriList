@@ -1,24 +1,46 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-01 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x01 
 https://fastream.to/embed-48plwarywrq2.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x02
 https://fastream.to/embed-4bx1nns1bvde.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x03
 https://fastream.to/embed-omml9wu2wso2.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x04
 https://fastream.to/embed-o8lguo6g51mm.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-05
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x05
 https://fastream.to/embed-r90ifkn5olhb.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x06
 https://fastream.to/embed-n4zt86szjolj.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-07
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x07
 https://fastream.to/embed-73bl8t7f3yls.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-08
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x08
 https://fastream.to/embed-nexy0ujy6dhb.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-09
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x09
 https://fastream.to/embed-ig3w1w0cuwvj.html
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg",club canguro-10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/puyNXdEWx2Biqb23dKotLFe9DXs.jpg" group-title="Temporada 1",club canguro-1x10
 https://fastream.to/embed-qckje9hzoxkg.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x01 
+https://fastream.to/embed-zs57ks8gndjd.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x02
+https://fastream.to/embed-rf4afr9j2cw4.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x03
+https://fastream.to/embed-c18ofcns0jd3.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x04
+https://fastream.to/embed-dfl2x2ogv0u6.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x05
+https://fastream.to/embed-shlp77r9le7r.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x06
+https://fastream.to/embed-7hhyfol2k0x7.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x07
+https://fastream.to/embed-q67pgcgsymmo.html
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/afyG6cPl0jeV3SwNwyZxRG0Q9wd.jpg" group-title="Temporada 2",club canguro-2x08
+https://fastream.to/embed-r2t4sgn0hc3u.html
+
+
+
+
+
+
 
 
 
