@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/665f2d5ea2d475001457c216/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" , El Verdadero Oppenheimer
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2d5ea2d475001457c216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/6662b5928ea0be0013212358/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" , Hitler: La Creación de un Monstruo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6662b5928ea0be0013212358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/664c65654d780d0013758299/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" , Las Olimpiadas de Hitler
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664c65654d780d0013758299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/664f1d812833ae00135ec075/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" , El Día Que Murió La Estrella del Rock: Amy Winehouse
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1d812833ae00135ec075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/664f1c14b978550013f8d7a6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" , Íconos de Nuestra Era: Che Guevara
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1c14b978550013f8d7a6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/664f1ee1af79c700136f8c19/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" , Íconos de Nuestra Era: Marilyn Monroe
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1ee1af79c700136f8c19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/614aee9faeae500014d86bf0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",Hijos de Tesla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614aee9faeae500014d86bf0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/66617b11c0b6d50014e41e43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",El Mundo Rosa de Barbie
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617b11c0b6d50014e41e43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/614072102b6fc0001451fb69/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",Nosotros fuimos a la misión Apolo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614072102b6fc0001451fb69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/64802d565348f4001aec1555/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",Locos por Madonna
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d565348f4001aec1555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/6358f9e16089a7001371406a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",Marcelino el mejor payaso del mundo ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6358f9e16089a7001371406a.m3u8
 #EXTINF:-1 tvg-logo="https://www.moncloa.com/wp-content/uploads/2021/01/El-catalogo-de-Netflix-con-tecnologia.jpg",Volcanes de Islandia
 https://secure-embed.rtve.es/drmn/embed/video/7052640
 #EXTINF:-1 tvg-logo="https://www.moncloa.com/wp-content/uploads/2021/01/El-catalogo-de-Netflix-con-tecnologia.jpg",AFRICA EXTREMA
