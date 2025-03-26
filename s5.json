@@ -17,7 +17,7 @@
 "url": "http://streamplay.to/g6pvrqul7qia",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },
 {
 "name": "cap2 ¡Que empiece el juego!",
@@ -27,7 +27,7 @@
 "url": "http://streamplay.to/6/hte00ggr1msr",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },
 {
 "name": "cap3 Ojo por ojo",
@@ -37,7 +37,7 @@
 "url": "http://streamplay.to/ukxkttfdo8cg",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },		
 {
 "name": "cap4 Un cristal roto",
@@ -47,7 +47,7 @@
 "url": "http://streamplay.to/rfuz84itrq4m",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },	
 {
 "name": "cap5 Y se convirtió en una desconocida",
@@ -57,7 +57,7 @@
 "url": "http://streamplay.to/idpf6vx7ecza",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },
 {
 "name": "cap6 La calma antes de la tormenta",
@@ -67,7 +67,7 @@
 "url": "http://streamplay.to/7g8it6cjhqlx",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 }
   ]
 	},	
@@ -84,7 +84,7 @@
 "url": "http://streamplay.to/0ax6hva789u6",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },	
 {
 "name": "cap2 Un color elegante",
@@ -94,7 +94,7 @@
 "url": "http://streamplay.to/rkzkh6gusc6a",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },	
 {
 "name": "cap3 Tu candidata favorita",
@@ -104,7 +104,7 @@
 "url": "http://streamplay.to/9fc8ergyhsce",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },		
 {
 "name": "cap4  Otro mundo",
@@ -114,7 +114,7 @@
 "url": "http://streamplay.to/mzsls463ay1u",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },		
 {
 "name": "cap5 El sagrado uniforme",
@@ -124,7 +124,7 @@
 "url": "http://streamplay.to/ed7uimh6jky3",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },
 {
 "name": "cap6 Si pudiera hacerlo otra vez… Fin",
@@ -134,7 +134,7 @@
 "url": "http://streamplay.to/z83b4zr7raon",
 "referer" : "http://streamplay.to/",
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-"isHost" : true
+"embed" : true
 },				
 ]},
 ]}	
