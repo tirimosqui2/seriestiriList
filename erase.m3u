@@ -1,55 +1,56 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 1
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",1 El gran planeta celular
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_01.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 2	  
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",2 El nacimiento  
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_02.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",3 Los centinelas del cuerpo
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_03.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",4 La médula ósea
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_04.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 5
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",5 Irrigación sanguínea
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_05.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 6
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",6 Las plaquetas
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_06.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 7
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",7 El corazón
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_07.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",8 La respiración
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_08.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",9 El cerebro
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_09.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 10
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",10 Las neuronas
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_10.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 11
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",11 La vista
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_11.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 12
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",12 El oído
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_12.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 13
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",13 La piel
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_13.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 14
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",14 La boca y los dientes
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_14.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 15
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",15 La digestión
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_15.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 16
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",16 El hígado
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_16.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 17
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",17 Los riñones
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_17.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 18
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",18 El sistema linfático
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_18.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 19
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",19 Los huesos y el esqueleto
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_19.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 20
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",20 Los músculos
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_20.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 21
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",21 Guerra a las toxinas
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_21.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 22
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",22 Las vacunas
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_22.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 23
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",23 Las hormonas
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_23.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 24
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",24 La cadena de la vida
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_24.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 25
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",25 La vida y el sueño
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_25.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",capitulo 26 fin
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3xqYvfNEAr5xnG5tsbe7J3WSGm.jpg" group-title="La vida",26  La edad del hombre  fin
 https://archive.org/download/EraseUnaVezLaVida17/Erase_Una_Vez_La_Vida_26.mp4
 
 
@@ -158,57 +159,57 @@ https://archive.org/download/EraseUnaVezElEspacio03ElPlanetaVerdeDVDripDUAL/Eras
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29V4VpMKc6fmoZXnSH3NpTsg2e3.jpg" group-title="El Espacio",26_-_El_Infinito_Del_Espacio fin
 https://archive.org/download/EraseUnaVezElEspacio03ElPlanetaVerdeDVDripDUAL/Erase_Una_Vez____El_Espacio_26_-_El_Infinito_Del_Espacio_DVDrip_DUAL.avi
 
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Primeros_Pobladores_De_America
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Primeros_Pobladores_De_America
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_01-_Los_Primeros_Pobladores_De_America.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Cazadores
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Cazadores
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_02-_Los_Cazadores.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Conquistadores_Del_Gran_Norte
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Conquistadores_Del_Gran_Norte
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_03-_Los_Conquistadores_Del_Gran_Norte.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",La_Tierra_Prometida
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",La_Tierra_Prometida
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_04-_La_Tierra_Prometida.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Constructores_De_Tumulos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Constructores_De_Tumulos
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_05-_Los_Constructores_De_Tumulos.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Aztecas_Antes_De_La_Conquista
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Aztecas_Antes_De_La_Conquista
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_06-_Los_Aztecas_Antes_De_La_Conquista.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",El_Obstinado_SueNo_De_Cristobal_Colon
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",El_Obstinado_SueNo_De_Cristobal_Colon
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_07-_El_Obstinado_SueNo_De_Cristobal_Colon.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",America
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",America
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_08-_America.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Cortes_Y_Los_Aztecas
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Cortes_Y_Los_Aztecas
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_09-_Cortes_Y_Los_Aztecas.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Que_Viva_Mejico
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Que_Viva_Mejico
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_10-_Que_Viva_Mejico.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Pizarro_Y_El_Imperio_De_Los_Incas
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Pizarro_Y_El_Imperio_De_Los_Incas
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_11-_Pizarro_Y_El_Imperio_De_Los_Incas.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Jacques_Cartier
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Jacques_Cartier
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_12-_Jacques_Cartier.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",epoca_De_Los_Conquistadores
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",epoca_De_Los_Conquistadores
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_13-_La_%C3%89poca_De_Los_Conquistadores.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Champlain
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Champlain
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_14-_Champlain.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",inglaterra_Y_Sus_Trece_Colonias
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",inglaterra_Y_Sus_Trece_Colonias
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_15-_Inglaterra_Y_Sus_Trece_Colonias.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Indios_En_El_Siglo_Xvii
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Indios_En_El_Siglo_Xvii
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_16-_Los_Indios_En_El_Siglo_Xvii.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",El_Final_Del_SueNo_Frances
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",El_Final_Del_SueNo_Frances
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_17-_El_Final_Del_SueNo_Frances.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Indios_En_El_Siglo_Xviii
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Indios_En_El_Siglo_Xviii
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_18-_Los_Indios_En_El_Siglo_Xviii.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Las_Trece_Colonias_Hacia_La_Independencia
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Las_Trece_Colonias_Hacia_La_Independencia
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_19-_Las_Trece_Colonias_Hacia_La_Independencia.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",La_Guerra_De_La_Independencia
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",La_Guerra_De_La_Independencia
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_20-_La_Guerra_De_La_Independencia.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Madera_De_evbano_La_Trata_De_Esclavos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Madera_De_evbano_La_Trata_De_Esclavos
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_21-_Madera_De_%C3%89bano_La_Trata_De_Esclavos.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Los_Pioneros
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Los_Pioneros
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_22-_Los_Pioneros.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",Simon_Bolivar
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",Simon_Bolivar
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_23-_Simon_Bolivar.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",La_Fiebre_Del_Oro
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",La_Fiebre_Del_Oro
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_24-_La_Fiebre_Del_Oro.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",El_Fin_Del_Mundo_Indio
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",El_Fin_Del_Mundo_Indio
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_25-_El_Fin_Del_Mundo_Indio.avi
-#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/23/items/EraseUnaVezLasAmericas14Champlain/__ia_thumb.jpg" group-title="LasAmericas",America____America Fin
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/AcvxnroIcSqBiwaBcYOWaqOlJRu.jpg" group-title="LasAmericas",America____America Fin
 https://archive.org/download/EraseUnaVezLasAmericas14Champlain/Erase_Una_Vez_Las_Americas_26-_America____America.avi
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGDCtiewyrA0P9BezLG5NnTqGwr.jpg" group-title="Los exploradores",1×01_Los_Primeros_Navegantes
